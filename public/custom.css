@@ -1,0 +1,24 @@
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding: 1ex;
+    text-align: center;
+    background: url("téléchargement.jpg") center bottom / auto 75% no-repeat fixed;
+}
+
+strong {
+    font-size: 300%;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
